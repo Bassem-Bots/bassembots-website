@@ -7,8 +7,8 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>BassemBots | Alfajral Bassem Robotics Club</title>
-	<meta name="description" content="BassemBots is the robotics club at Alfajral Bassem. We build, code, and compete—come create the future with us." />
+	<title>BassemBots | Alfajrul Bassem Robotics Club</title>
+	<meta name="description" content="BassemBots is the robotics club at Alfajrul Bassem. We build, code, and compete—come create the future with us." />
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />

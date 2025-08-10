@@ -25,7 +25,7 @@
 					<img src="/logo.png" alt="BassemBots logo" class="h-8 w-8" />
 				</div>
 				<div class="text-left">
-					<p class="text-xs font-semibold uppercase tracking-wider text-neutral-400">Alfajral Bassem</p>
+					<p class="text-xs font-semibold uppercase tracking-wider text-neutral-400">Alfajrul Bassem</p>
 					<p class="text-lg font-bold text-neutral-100">BassemBots</p>
 				</div>
 			</a>
@@ -44,7 +44,7 @@
 			<div class="grid items-center gap-12 lg:grid-cols-12">
 				<div class="max-w-2xl space-y-6 lg:col-span-7">
 					<h1 class="text-4xl font-black tracking-tight sm:text-5xl md:text-6xl">Build robots. Code solutions. Lead the future.</h1>
-					<p class="text-lg leading-8 text-neutral-300">Welcome to BassemBots — the robotics club at Alfajral Bassem. We design, build, and program robots while learning teamwork, engineering, and leadership through competitions and real projects.</p>
+					<p class="text-lg leading-8 text-neutral-300">Welcome to BassemBots — the robotics club at Alfajrul Bassem. We design, build, and program robots while learning teamwork, engineering, and leadership through competitions and real projects.</p>
 					<div class="mt-6 flex items-center gap-6 text-sm text-neutral-400">
 						<div class="flex items-center gap-2"><span class="h-2 w-2 rounded-full bg-blue-500"></span> Weekly meetings</div>
 						<div class="flex items-center gap-2"><span class="h-2 w-2 rounded-full bg-blue-500"></span> Competitions</div>
@@ -123,7 +123,7 @@
 <footer class="border-t border-neutral-800 py-10 text-sm text-neutral-400">
 	<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 		<div class="flex flex-col items-center justify-between gap-4 sm:flex-row">
-			<p>© {new Date().getFullYear()} BassemBots • Alfajral Bassem</p>
+			<p>© {new Date().getFullYear()} BassemBots • Alfajrul Bassem</p>
 			<div class="flex items-center gap-4">
 				<a class="hover:text-neutral-200" href="#about">About</a>
 				<a class="hover:text-neutral-200" href="#projects">Projects</a>
