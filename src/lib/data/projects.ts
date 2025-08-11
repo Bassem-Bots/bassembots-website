@@ -33,8 +33,9 @@ export const projects: Project[] = [
 		status: 'completed',
 		difficulty: 'beginner',
 		gallery: [
-			'/windsor/1.webp',
+			'/windsor/12.webp',
 			'/windsor/2.webp',
+			'/windsor/1.webp',
 			'/windsor/3.webp',
 			'/windsor/4.webp',
 			'/windsor/5.webp',
@@ -43,8 +44,7 @@ export const projects: Project[] = [
 			'/windsor/8.webp',
 			'/windsor/9.webp',
 			'/windsor/10.webp',
-			'/windsor/11.webp',
-			'/windsor/12.webp'
+			'/windsor/11.webp'
 		],
 		features: ['N/A']
 	},
