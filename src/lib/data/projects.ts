@@ -16,19 +16,24 @@ export const projects: Project[] = [
 		title: 'FTC Waterloo Qualifier',
 		description: 'A robotics competition for high school students.',
 		longDescription:
-			'The FTC Waterloo Qualifier is a robotics competition for high school students. It tests their skills in programming, robot design, and teamwork. The competition is held annually in Waterloo, Ontario, Canada.',
+			'In our rookie year, Bassem Bots not only made it to the playoffs at the FTC Waterloo Qualifier, our first-ever competition, but we also brought home the prestigious Innovate Award for our creative engineering solutions. \nThis annual robotics competition, held in Waterloo, Ontario, tests high school teams on programming, robot design, and teamwork. Competing against seasoned teams, we proved that determination, skill, and collaboration can lead to remarkable success right from the start.',
 		technologies: ['Java', 'FTC SDK', 'Android Studio'],
 		status: 'completed',
 		difficulty: 'beginner',
 		gallery: ['/waterloo.webp'],
-		features: ['N/A']
+		features: [
+			'Playoff Qualification in First Competition',
+			'Innovate Award Winner',
+			'Custom-Built Robot & Programming',
+			'Team Collaboration & Problem-Solving'
+		]
 	},
 	{
 		id: 'ftc-windsor-qualifier',
 		title: 'FTC Windsor Qualifier',
 		description: 'A robotics competition for high school students.',
 		longDescription:
-			'The FTC Windsor Qualifier is a robotics competition for high school students. It tests their skills in programming, robot design, and teamwork. The competition is held annually in Windsor, Ontario, Canada.',
+			'The FTC Windsor Qualifier was our second competition of the season, where we continued to build on the momentum from our rookie debut. Our robot performed strongly throughout the matches, and we came incredibly close to securing a playoff spot, finishing 9th out of all teams, with the top 8 advancing. \nWhile we didn’t take home an award this time, the event gave us valuable experience, helping us refine our robot’s design, strengthen our teamwork, and prepare for future competitions',
 		technologies: ['Java', 'FTC SDK', 'Android Studio'],
 		status: 'completed',
 		difficulty: 'beginner',
@@ -46,7 +51,12 @@ export const projects: Project[] = [
 			'/windsor/10.webp',
 			'/windsor/11.webp'
 		],
-		features: ['N/A']
+		features: [
+			'Strong Performance - 9th Place Finish',
+			'Improved Robot Engineering',
+			'Focused Game Strategy',
+			'Hands-On Pit Crew Collaboration'
+		]
 	},
 	{
 		id: 'eid-robotics-event',
